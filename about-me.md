@@ -1,9 +1,13 @@
 # Hey everyone!
-My name is Ilan Laloum and I am an accredited full-stack Software Engineer who happens to know a thing or two about designing successful strategic software projects that streamline operational processes and influence new levels of high-performing security.
+My name is Ilan Laloum
 
-I am a respected freelancer who has pioneered numerous strategic software projects for government organizations, banks, insurance companies, hospitals, and much more.
+I am an Highly skilled Full Stack Software Developer, R&D Team Leader, and SaaS Architect with over 20 Years of Hands-on experience.
 
-Overall, I built my freelancing services on a foundation of transparency, trust, and integrity and aim to not only meet my customers’ expectations but exceed them every time. 
+Cross-functional team leader, Lead and conduct quarterly and annual performance reviews for each team member. Lead product development process to define clinical and technical design parameters, prioritize projects based on customer needs/R&D risks, assign task responsibility (including self), and meet product introductions deadlines.
+
+Possess deep understanding of software development life cycle, strong problem-solving skills within wide range of technologies. Ensures Resiliency, Speeds Up Deployment, Taps Metrics, and Improves Operations.
+
+Staying up to date with the latest trends and advancements in the field to ensure the delivery of innovative and cutting-edge solutions.
 
 <div style="text-align:center;">
 	<img alt="Ilan Laloum - in vr" style="max-width:360px;border-radius:50%;" title="Ilan Laloum vr photo" src="imgs/ilan_laloum_vr_xsmall.jpg" />
@@ -17,10 +21,14 @@ Overall, I built my freelancing services on a foundation of transparency, trust,
 </div>
 
 <p style="vertical-align:middle; text-align:center;padding:40px 0">
-	<a href="https://www.linkedin.com/in/ilanlal" title="Ilan Laloum on Linkedin" style="margin:0 10px;"><img height="32" width="32" src="svgs/linkedin.svg"></a>
-	<a href="https://twitter.com/admeasy" title="Easy ADM on Twitter" target="_blank" style="margin:0 10px;"><img height="32" width="32" src="svgs/twitter.svg" /></a>
-	<a href="https://www.youtube.com/channel/UCnILURglxbBZIaU4lMJfzug" title="Easy ADM Youtube channel" style="margin:0 10px;"><img height="32" width="32" src="svgs/youtube.svg" /></a>
+	<a href="https://www.linkedin.com/in/ilanlal" title="Ilan Laloum on Linkedin" style="margin:0 10px;"><img style="background-color:#0070CF" height="32" width="32" src="svgs/linkedin.svg"></a>
+	<a href="https://twitter.com/admeasy" title="Easy ADM on Twitter" target="_blank" style="margin:0 10px;"><img style="background-color:#0070CF"height="32" width="32" src="svgs/twitter.svg" /></a>
+	<a href="https://www.youtube.com/channel/UCnILURglxbBZIaU4lMJfzug" title="Easy ADM Youtube channel" style="margin:0 10px;"><img style="background-color:#FF0000" height="32" width="32" src="svgs/youtube.svg" /></a>
 </p>
+
+I am a respected freelancer who has pioneered numerous strategic software projects for government organizations, banks, insurance companies, hospitals, and much more.
+
+Overall, I built my freelancing services on a foundation of transparency, trust, and integrity and aim to not only meet my customers’ expectations but exceed them every time. 
 
 Active in the development groups of Microsoft partners and Google developers, with the more notable highlight being my creation of a POC that now serves over 100K Google Workspace users. 
 
@@ -35,7 +43,6 @@ I have always been a huge tech kid, avidly reading and studying the intricacies 
 From then to now, I have only gotten sharper and more proactive in the field, leading to my rooted expertise in every aspect of the software project lifecycle to ensure its success. 
 
 All in all, nothing makes me happier than being able to live out my passion for implementing technology innovations and being a valuable resource for illustrious organizations to obtain their software upgrade goals. 
-
 
 This, in conjunction with my advocacy for the Agile, Scrum, and K.I.S.S. (keep it simple stupid) methodologies, and a strong reputation for maintaining the strict standards of both development and information security in every design, can solidify your confidence that your full-scale software objectives are in the best possible hands from the blueprint stage to execution.
 
