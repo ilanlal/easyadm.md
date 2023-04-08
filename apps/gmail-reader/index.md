@@ -15,7 +15,7 @@ __Gmail Reader__ Provides Gmail administrators instant access to the history of 
 
  + ### [How to use?](how-to-use.md)
  + ### [Sign-in](how-to-use.md#app-launcher)
-Once installed, The __Gmail Reader__ sign-in page accessible through your Google App Launcher, You can get immidate access to any Gmail account.
+Once installed, The __Gmail Reader__ sign-in page accessible through your Google App Launcher, You can get immediate access to any Gmail account.
  + ### [Start search](how-to-use.md#start-search)
  Just click the "START" button, The search proccess will start and the first messages results will expan for you automaticlly
  + ### [Select accounts for search](how-to-use.md#cross-account-search)
